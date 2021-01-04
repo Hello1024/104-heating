@@ -11,7 +11,7 @@ target_till = 0
 
 @app.route('/')
 def home():
-    return 'Here is the server for the heating controller.   See the site here...'
+    return 'Here is the server for the heating controller.   See the site at https://hello1024.github.io/104-Home/fordhook.html ...'
 
 
 def getAllData():
